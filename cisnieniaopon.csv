@@ -1,17 +1,13 @@
 Rozmiar,Pozycja,Ciśnienie,Uwagi
-10,front,1.8,Skuter 50-125cc - koło przednie
-10,rear,2.2,Skuter 50-125cc - koło tylne
-10,front,2.0,Skuter z pasażerem - koło przednie
-10,rear,2.4,Skuter z pasażerem - koło tylne
-12,front,1.9,Skuter 125-150cc - koło przednie
-12,rear,2.3,Skuter 125-150cc - koło tylne
-12,front,2.1,Skuter 125-150cc z bagażem - koło przednie
-12,rear,2.5,Skuter 125-150cc z bagażem - koło tylne
-17,front,2.211,Motocykl standard - koło przednie
-17,rear,2.5,Motocykl standard - koło tylne
-17,front,2.3,Motocykl sportowy - koło przednie
-17,rear,2.6,Motocykl sportowy - koło tylne
-17,front,2.1,Motocykl cruiser - koło przednie
-17,rear,2.4,Motocykl cruiser - koło tylne
-17,front,2.4,Motocykl z pasażerem - koło przednie
-17,rear,2.7,Motocykl z pasażerem - koło tylne
+10,front,1.9,Koło przednie
+10,rear,2.3,Koło tylne
+12,front,2.0,Koło przednie
+12,rear,2.4,Koło tylne
+17,front,2.2,Koło przednie
+17,rear,2.5,Koło tylne
+18,front,2.3,Koło przednie
+18,rear,2.6,Koło tylne
+19,front,2.4,Koło przednie
+19,rear,2.7,Koło tylne
+21,front,2.2,Koło przednie
+21,rear,2.4,Koło tylne
